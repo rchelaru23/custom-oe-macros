@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><templates><template autoinsert="true" context="com.openedge.pdt.text.editor.templates" deleted="false" description="Define a template for disconnecting from the application server" enabled="true" name="DISCOSERVER">DATASET ${DataSet}:EMPTY-DATASET().&#13;
+DELETE PROCEDURE ${ProcedureHandle}.&#13;
+${ServerHandle}:DISCONNECT().&#13;
+DELETE OBJECT  ${ServerHandle}.</template></templates>
