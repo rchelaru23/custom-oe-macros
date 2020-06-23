@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><templates><template autoinsert="true" context="com.openedge.pdt.text.editor.templates" deleted="false" description="Define a dataset" enabled="true" name="DDS">DEFINE ${visibilityParameter} DATASET ds${name}&#13;
+	for tt${ttName}.</template></templates>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><templates><template autoinsert="true" context="com.openedge.pdt.text.editor.templates" deleted="false" description="Defines a sample template for function" enabled="true" name="FUNCTION">FUNCTION ${name} RETURNS ${datatype} (INPUT p${name} AS ${paramDatatype}):&#13;
+	DEFINE VARIABLE ${varName} AS ${varDatatype} NO-UNDO.&#13;
+	&#13;
+END.</template></templates>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><templates><template autoinsert="true" context="com.openedge.pdt.text.editor.templates" deleted="false" description="Defines a sample for an internal procedure, service interfaces use this" enabled="true" name="INTERNALPROC">PROCEDURE ${proc_name}:&#13;
+    DEFINE INPUT PARAMETER ${param1} AS ${datatype1} NO-UNDO.&#13;
+    DEFINE OUTPUT PARAMETER ${param2} AS ${datatype2} NO-UNDO.&#13;
+    &#13;
+    RETURN.&#13;
+END PROCEDURE.</template></templates>
