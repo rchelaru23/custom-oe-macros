@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><templates><template autoinsert="true" context="com.openedge.pdt.text.editor.templates" deleted="false" description="Defines a template for attaching data source" enabled="true" name="BUFFERATTACH">BUFFER ${ttName}:ATTACH-DATA-SOURCE(DATA-SOURCE ${dataSourceName}:HANDLE).&#13;
+&#13;
+BUFFER ${ttName}:DETACH-DATA-SOURCE().</template></templates>
